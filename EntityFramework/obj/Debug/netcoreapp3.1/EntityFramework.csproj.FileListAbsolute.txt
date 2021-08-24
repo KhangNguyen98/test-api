@@ -1,0 +1,12 @@
+E:\Rest API Tutorial\WebAPI\EntityFramework\obj\Debug\netcoreapp3.1\EntityFramework.csproj.AssemblyReference.cache
+E:\Rest API Tutorial\WebAPI\EntityFramework\obj\Debug\netcoreapp3.1\EntityFramework.AssemblyInfoInputs.cache
+E:\Rest API Tutorial\WebAPI\EntityFramework\obj\Debug\netcoreapp3.1\EntityFramework.AssemblyInfo.cs
+E:\Rest API Tutorial\WebAPI\EntityFramework\obj\Debug\netcoreapp3.1\EntityFramework.csproj.CoreCompileInputs.cache
+E:\Rest API Tutorial\WebAPI\EntityFramework\bin\Debug\netcoreapp3.1\EntityFramework.deps.json
+E:\Rest API Tutorial\WebAPI\EntityFramework\bin\Debug\netcoreapp3.1\EntityFramework.dll
+E:\Rest API Tutorial\WebAPI\EntityFramework\bin\Debug\netcoreapp3.1\EntityFramework.pdb
+E:\Rest API Tutorial\WebAPI\EntityFramework\bin\Debug\netcoreapp3.1\Dependency.dll
+E:\Rest API Tutorial\WebAPI\EntityFramework\bin\Debug\netcoreapp3.1\Dependency.pdb
+E:\Rest API Tutorial\WebAPI\EntityFramework\obj\Debug\netcoreapp3.1\EntityFramework.csproj.CopyComplete
+E:\Rest API Tutorial\WebAPI\EntityFramework\obj\Debug\netcoreapp3.1\EntityFramework.dll
+E:\Rest API Tutorial\WebAPI\EntityFramework\obj\Debug\netcoreapp3.1\EntityFramework.pdb

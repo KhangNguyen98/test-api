@@ -1,0 +1,9 @@
+E:\Rest API Tutorial\WebAPI\Dependency\bin\Debug\netcoreapp3.1\Dependency.deps.json
+E:\Rest API Tutorial\WebAPI\Dependency\bin\Debug\netcoreapp3.1\Dependency.dll
+E:\Rest API Tutorial\WebAPI\Dependency\bin\Debug\netcoreapp3.1\Dependency.pdb
+E:\Rest API Tutorial\WebAPI\Dependency\obj\Debug\netcoreapp3.1\Dependency.csproj.AssemblyReference.cache
+E:\Rest API Tutorial\WebAPI\Dependency\obj\Debug\netcoreapp3.1\Dependency.AssemblyInfoInputs.cache
+E:\Rest API Tutorial\WebAPI\Dependency\obj\Debug\netcoreapp3.1\Dependency.AssemblyInfo.cs
+E:\Rest API Tutorial\WebAPI\Dependency\obj\Debug\netcoreapp3.1\Dependency.csproj.CoreCompileInputs.cache
+E:\Rest API Tutorial\WebAPI\Dependency\obj\Debug\netcoreapp3.1\Dependency.dll
+E:\Rest API Tutorial\WebAPI\Dependency\obj\Debug\netcoreapp3.1\Dependency.pdb
